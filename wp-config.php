@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         'Qfwk>=][-Po2!N1JNGY)2vrJ6~yY!OcXic9I9(*#y!a+{.Hz:0^|(>v Ri}Z$N,7');
+define('SECURE_AUTH_KEY',  'jZ%pOx1a!TU-3Pnich+RUr9v] |:EL0m[I(V}iUm3B0uzlX(tZzxR+Y]|!1XM`-9');
+define('LOGGED_IN_KEY',    ' Fma$E2W>+QG|cHHFUW.3{H8vuF-`]MA%d.PiQT/b)`OaCTc|In]9;F-?DtSPiJ/');
+define('NONCE_KEY',        'yB2i<TIYVT+4vZ~!U[Me1V%j/~3qY}P(~+KJH6g3QLnTt|cO,KUHSR](6=|.>/l4');
+define('AUTH_SALT',        '=|;y~,vUxI~|t+]Ut[MtCmYI +P&L||^=o)9tm#+8W=`FOcdRLFY+dMYGX$!~})[');
+define('SECURE_AUTH_SALT', '-I3.w m1(rcbK2E-+Ap-rhDYGUBBH@>r$v_#l5Z/tCKyco1n..&4iP0&txz#|-I`');
+define('LOGGED_IN_SALT',   '&1<aQy_-Hc:vpv+IA-4-$^gkOOP]..b*e+`33Y][$ ?]WQyWQ=r&SFShk]mnfvWH');
+define('NONCE_SALT',       'H9kDJiJgZ&*t-7<)h*r$) 1|DGC+^J|<H-e/?9)?5H2~E_A7U9zyv>7pm`Mf|&0&');
 
 /**#@-*/
 
@@ -78,11 +78,3 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
-
-
-define( 'FTP_USER', 'root' );
-define( 'FTP_PASS', 'root' );
-define( 'FTP_HOST', '50.57.228.220' );
-
-define('WP_HOME','http://50.57.228.220');
-define('WP_SITEURL','http://50.57.228.220');
